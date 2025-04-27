@@ -1,1 +1,7 @@
+Road accidents represent a significant public health concern worldwide. 
+Understanding the factors that influence survival outcomes can help inform safety policies, vehicle design improvements, and emergency response protocols.
 
+This analysis explores the Road Accident Survival Dataset to identify key demographic, behavioral, and situational factors that impact the probability of surviving a road accident. 
+Our goal is to build a predictive model that accurately estimates survival probability based on these factors and extract actionable insights to improve road safety.
+
+We will focus on the relationship between age, gender, speed of impact, safety device usage, and survival outcomes, creating both descriptive insights and predictive models.
